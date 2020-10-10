@@ -8,4 +8,5 @@
 
 相关资料 | 网址
 --- | ---
-官方网站 | https://github.com/smartystreets/goconvey/wiki#get-going-in-25-seconds
+Home | https://github.com/smartystreets/goconvey/wiki
+Assertions | https://github.com/smartystreets/goconvey/wiki/Assertions
